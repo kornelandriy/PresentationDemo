@@ -10,3 +10,13 @@ PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.dll
 PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.exe
 PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.pdb
 PresentationDemo/obj/Debug/netcoreapp3.1/staticwebassets/
+PresentationDemo.Tests/bin/
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/
+PresentationDemo/PresentationDemo/obj/
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.MvcApplicationPartsAssemblyInfo.cache
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.RazorTargetAssemblyInfo.cache
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.csproj.FileListAbsolute.txt
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.dll
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.exe
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.pdb
+PresentationDemo.Tests/obj/Debug/netcoreapp3.1/staticwebassets/
