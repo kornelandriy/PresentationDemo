@@ -1,0 +1,12 @@
+﻿# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.idea.PresentationDemo/.idea/dataSources.xml
+.idea/.idea.PresentationDemo/.idea/vcs.xml
+PresentationDemo/bin/
+PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.MvcApplicationPartsAssemblyInfo.cache
+PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.RazorTargetAssemblyInfo.cache
+PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.csproj.FileListAbsolute.txt
+PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.dll
+PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.exe
+PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.pdb
+PresentationDemo/obj/Debug/netcoreapp3.1/staticwebassets/

@@ -7,6 +7,7 @@
     <e p="C:\Users\Andriy_Kornylevych\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Andriy_Kornylevych\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_PresentationDemo.688486411.00" t="ExcludeRecursive" />
     <e p="C:\Users\Andriy_Kornylevych\RiderProjects\PresentationDemo" t="IncludeFlat">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="PresentationDemo" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
