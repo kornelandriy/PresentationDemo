@@ -20,3 +20,8 @@ PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.dll
 PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.exe
 PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.pdb
 PresentationDemo.Tests/obj/Debug/netcoreapp3.1/staticwebassets/
+/PresentationDemo.Tests/obj/
+/PresentationDemo.Tests/obj/Debug/
+/PresentationDemo/obj/
+/PresentationDemo/obj/Debug/netcoreapp3.1/PresentationDemo.csprojAssemblyReference.cache
+/PresentationDemo.Tests/obj/Debug/netcoreapp3.1/PresentationDemo.Tests.csprojAssemblyReference.cache
